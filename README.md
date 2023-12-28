@@ -1,4 +1,4 @@
-# Information Retrieval Project - News Verification
+# Information Retrieval Project - News Verification System
 
 ## Overview
 This project focuses on developing a system to verify the authenticity of news using large language models (LLMs), specifically targeting Singaporean news. The primary tool is the Retrieval-Augmented-Generation (RAG) model, combining traditional information retrieval with advanced language processing.
